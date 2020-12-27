@@ -7,6 +7,7 @@ body {
 
 h1 {
   font-size: 32px;
-  font-family: Palatino, 'Palation linotype', serif;
+  text-align: center;
+  font-family: Palatino, Palation Linotype, Georgia, Times, "Times New Roman" serif;
   color: rgb(121,149,117);
 }
