@@ -11,3 +11,11 @@ h1 {
   font-family: Palatino, Palation Linotype serif;
   color: green;
 }
+
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: #fbd1d5;
+  text-shadow: none;
+  background-color: #ffffff;
+}
