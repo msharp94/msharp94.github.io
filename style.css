@@ -19,3 +19,14 @@ h1 {
   text-shadow: none;
   background-color: #ffffff;
 }
+
+.btn.btn-primary:hover {
+  colo: #ffffff;
+  background-color: 3fbd1d5;
+}
+
+.btn-secondary {
+  background-color: 3E8DFEO;
+  color: #ffffff;
+  margin: 0 0 30px;
+}
