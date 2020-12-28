@@ -11,3 +11,7 @@ h1 {
   font-family: Palatino, Palation Linotype serif;
   color: green;
 }
+
+li {
+  text-align: center;
+}
