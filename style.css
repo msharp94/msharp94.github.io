@@ -1,8 +1,13 @@
-body {
-  hight: 100%;
-  margin: 0;
-  text-align: center;
+html, body {
   width: 100%;
+  hight: 100%;
+  margin: 0; /* Space from this element (entire pages) and others*/
+  padding: 0; /* space from content and border*/
+  text-align: center;
+  border: solid blue;
+  border-width: thin;
+  overflow: hidden;
+  dispaly: block;
 }
 
 h1 {
@@ -10,23 +15,4 @@ h1 {
   text-align: center;
   font-family: Palatino, Palation Linotype serif;
   color: green;
-}
-
-.btn.btn-primary {
-  border-radius: 2px;
-  border: 0px;
-  color: #fbd1d5;
-  text-shadow: none;
-  background-color: #ffffff;
-}
-
-.btn.btn-primary:hover {
-  colo: #ffffff;
-  background-color: 3fbd1d5;
-}
-
-.btn-secondary {
-  background-color: 3E8DFEO;
-  color: #ffffff;
-  margin: 0 0 30px;
 }
