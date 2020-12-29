@@ -1,11 +1,9 @@
 html, body {
   width: 100%;
   hight: 100%;
-  margin: 0; /* Space from this element (entire pages) and others*/
-  padding: 0; /* space from content and border*/
+  margin: 0; 
+  padding: 0; 
   text-align: center;
-  border: solid blue;
-  border-width: large;
 }
 
 h1 {
