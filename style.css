@@ -5,9 +5,7 @@ html, body {
   padding: 0; /* space from content and border*/
   text-align: center;
   border: solid blue;
-  border-width: thin;
-  overflow: hidden;
-  dispaly: block;
+  border-width: large;
 }
 
 h1 {
